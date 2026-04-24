@@ -19,20 +19,33 @@
 
 ## 🚀 Projects
 
-### Docs to HTML Formatter for WordPress
+### Lifelong User Action Sequence Modeling
 
-Google Docs の内容を、WordPress に入稿しやすいHTMLへ変換するツールです。  
-Google Drive API、FastAPI、BeautifulSoup、Prettier を使い、見出し・本文・リスト・画像・表などの整形を自動化しています。
+Taobao・Tmall などのデータセットを用いて推薦システムのオフライン学習の研究を行っています。
+推薦の精度を上げるため、ユーザーの長期系列を活用する方法を探っています。
+関連研究としては、ユーザーの興味に応じて動的にユーザー表現を作り替える DIN （2019: Deep Interest Network for Click-Through Rate Prediction）のモデルです。
 
-### Slack × Google Calendar Bot
 
-Slack から Google Calendar の予定確認・予定作成・勤務時間集計などを行うBotです。  
-Slack API と Google Calendar API を連携し、日常的な予定管理や勤怠確認を効率化することを目的にしています。
+### Blog Portfolio
 
-### AI Workflow Tools with Dify and Google Sheets
+Next.js App Router と Prisma / PostgreSQL を使った、ブログ兼ポートフォリオサイトです。
+Slack API と連携して個人 Times を表示できるようにしています。
+認証、入力バリデーション、画像アップロード、レート制限、運用ログなど、本番運用を意識した機能も実装しています。
 
-Google Sheets と Dify Workflow を連携し、タイトル案・画像生成プロンプト・マーケティング用テキストなどを生成する自動化ツールです。  
-複数のLLM処理を組み合わせて、アイデア出しやコンテンツ制作の効率化を試しています。
+### AI x Remotion
+
+### 社内の勤怠モバイルアプリ開発
+
+TypeScript, ReactNative を使った Android, iOS 対応のネイティブアプリケーション開発を行うチームでのプロジェクトを行いました。
+主にフロントエンドを担当し、Storybook を用いた UI 開発、フロントのバリデーションや勤怠ロジックなどを経験しました。
+バックエンドは firebase を採用していました。
+
+### 朝活 bot
+
+完全に趣味ですが、研究室の Slack に朝活 bot を導入しました。
+午前8:30~9:00 の間に研究室で Slack のボタンを押すと朝活ポイントが貯まる仕組みにしており、現在10名程度が z-asakatsu チャンネルに所属しています。
+Slack API と GAS で構成されており、GAS のトリガーによって毎日 bot のメッセージが送られてきます。
+
 
 <br>
 
