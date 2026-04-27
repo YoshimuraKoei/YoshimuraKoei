@@ -6,14 +6,11 @@
 
 私はソフトウェア開発・AI活用・自動化を組み合わせて、実用的なツールや仕組みを作ることに興味があります。
 
-特に、Web技術・API・AIワークフローを使って、複雑な作業や繰り返し作業をシンプルなプロダクトに落とし込むことが好きです。  
-単に機能を実装するだけでなく、「誰が使うのか」「どんな課題を解決するのか」「どう価値につながるのか」を考えながら開発することを大切にしています。
-
 <br>
 
 ## 🛠 Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=html,css,js,ts,react,nextjs,tailwind,python,fastapi,nodejs,express,docker,git,github,vscode,notion" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=html,css,js,ts,react,nextjs,python,fastapi,nodejs,sql,git,github,neovim" />
 
 <br>
 
