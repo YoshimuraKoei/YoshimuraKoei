@@ -10,7 +10,7 @@
 
 ## 🛠 Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=html,css,js,ts,react,nextjs,python,fastapi,nodejs,sql,git,github,neovim" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=html,css,js,ts,react,nextjs,python,fastapi,nodejs,postgresql,git,github,neovim" />
 
 <br>
 
