@@ -43,6 +43,14 @@ TypeScript, ReactNative を使った Android, iOS 対応のネイティブアプ
 主にフロントエンドを担当し、Storybook を用いた UI 開発、フロントのバリデーションや勤怠ロジックなどを経験しました。
 バックエンドは firebase を採用していました。
 
+### Codex Local Sweep
+
+これについては下記に記事を書きました。Mac の launch 機能を用いて Codex に定期的なタスクを実行させる取り組み。
+Codex は特定のセッション上で、非対話モードとして動かすことができるため、複数プロジェクトにおいて毎朝次のタスクを Slack に投稿させています。
+これにより、毎朝次に取り組むべきタスクを Slack で一元管理できるとともに、取り組む優先順位を組むのが楽になります。
+
+https://zenn.dev/noeten/articles/codex-local-sweep
+
 ### 朝活 bot
 
 完全に趣味ですが、研究室の Slack に朝活 bot を導入しました。
