@@ -18,9 +18,8 @@
 
 ## 🚀 Projects
 
-### Lifelong User Action Sequence Modeling
-
-Taobao・Tmall などのデータセットを用いて推薦システムのオフライン学習の研究を行っています。
+### User Lifelong Behavior Modeling
+Taobao・KuaiRand などのデータセットを用いて推薦システムのオフライン学習の研究を行っています。
 推薦の精度を上げるため、ユーザーの長期系列を活用する方法を探っています。
 関連研究としては、ユーザーの興味に応じて動的にユーザー表現を作り替える DIN （2019: Deep Interest Network for Click-Through Rate Prediction）のモデルです。
 
