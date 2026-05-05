@@ -103,6 +103,7 @@ https://github.com/YoshimuraKoei/notebooklm-cli-zsh-helpers
 <div align="left">
   <img alt="github stats" height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YoshimuraKoei&theme=vue-dark&show_icons=true" />
   <img alt="Top Langs" height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YoshimuraKoei&theme=vue-dark&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoshimuraKoei&theme=vue-dark" alt="GitHub Streak" />
 </div>
 
 <br>
