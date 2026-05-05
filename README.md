@@ -74,6 +74,15 @@ AI 時代になると, インターネット上に存在する数多くの文章
 https://github.com/YoshimuraKoei/koei-clone
 https://zenn.dev/noeten/articles/8388a63b10015d
 
+### knowledge-RAG
+学び続けていると, 学んだことをアウトプットして定着させたつもりでも忘れてしまいます. 「いつ」「どんな文脈で」「何を」学んだのか, それを明らかにしたいと思って構築した RAG のプロジェクトです.
+Bot に, 「ディープラーニングってなんだっけ？」のように問いかけると、質問の答えと関連する Notion ページを返してくれるようにしました.
+ですが, 最近は neovim に移行してターミナルと仲良くなり始めていて, 学びのアウトプットを Notion ではなくローカルのマークダウンファイルに書くことが多いです...
+ナレッジ管理体制が固まり次第, テコ入れしていこうかなと考えています.
+
+https://github.com/YoshimuraKoei/knowledge-RAG
+
+
 <br>
 
 ## 📊 Activities
