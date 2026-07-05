@@ -3,7 +3,10 @@
 </div>
 
 # Hi, I'm Koei 👋
-専門は機械学習の推薦システムであり, 共同研究においてユーザの長期履歴をどのように扱うかという User Lifelong Behavior Modeling の研究を行っています. 
+
+所属は東京科学大学院経営工学コース. 専門は機械学習の推薦システム. 
+現在は共同研究において, 
+共同研究においてユーザの長期履歴をどのように扱うかという User Lifelong Behavior Modeling の研究を行っている. 
 
 ビジネスに近いところから業務課題を考え, データサイエンスなどの技術を意思決定に応用することで価値を創出することに興味があります.
 
@@ -13,15 +16,18 @@ AtCoder も4月ごろから始めて, 現在茶色になりました.
 
 <br>
 
-## 最近のマイブーム・興味あること・趣味
+## 最近の活動
 - 松尾研講座 (GCI など)
-    - データサイエンスを学んでいます.   
+    - データサイエンスを学ぶために始めた.
+    - [GCI2026](https://gci2.t.u-tokyo.ac.jp/archives/course/gci-2026-summer), [Physical AI](https://weblab.t.u-tokyo.ac.jp/lecture/course-list/physical-ai/), [LLM](https://weblab.t.u-tokyo.ac.jp/lecture/course-list/large-language-model/), etc..
+- AtCoder
+    - https://atcoder.jp/users/koeiyoshimura
+    - streak が切れないように（可能な限り）毎日やっています.
+    - <img width="1163" height="734" alt="image" src="https://github.com/user-attachments/assets/7bb02d7b-46a4-4a6c-8146-a70df7fc4e4c" />
+- IVE (K-POP)
+    - 4/18(土) の京セラライブから余韻が抜けていない. その勢いで家にスピーカーを導入しました.
 - 朝活 × コーヒー 界隈
     - コーヒーソムリエの資格で体系的に勉強したい.
-- AtCoder
-    - streak が切れないように毎日やっています.
-- IVE (K-POP)
-    - 4/18(土) の京セラライブから余韻が抜けていない. その勢いで家にスピーカーを導入しました. 
 - 卓球
     - 友達を倒すことでうまくなってきました.
 - K-POP ダンス
