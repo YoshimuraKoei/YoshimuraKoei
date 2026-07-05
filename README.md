@@ -5,33 +5,10 @@
 # Hi, I'm Koei 👋
 
 所属は東京科学大学院経営工学コース. 専門は機械学習の推薦システム. 
-現在は共同研究において, 
-共同研究においてユーザの長期履歴をどのように扱うかという User Lifelong Behavior Modeling の研究を行っている. 
+現在は共同研究において, 不動産ポータルのドメインにおけるユーザの意思決定進行度を考慮したレコメンドの研究をしている. 
 
-ビジネスに近いところから業務課題を考え, データサイエンスなどの技術を意思決定に応用することで価値を創出することに興味があります.
-
-趣味でソフトウェア開発やワークフローでの自動化をちょっとしています.
-
-AtCoder も4月ごろから始めて, 現在茶色になりました. 
-
-<br>
-
-## 最近の活動
-- 松尾研講座 (GCI など)
-    - データサイエンスを学ぶために始めた.
-    - [GCI2026](https://gci2.t.u-tokyo.ac.jp/archives/course/gci-2026-summer), [Physical AI](https://weblab.t.u-tokyo.ac.jp/lecture/course-list/physical-ai/), [LLM](https://weblab.t.u-tokyo.ac.jp/lecture/course-list/large-language-model/), etc..
-- AtCoder
-    - https://atcoder.jp/users/koeiyoshimura
-    - streak が切れないように（可能な限り）毎日やっています.
-    - <img width="1163" height="734" alt="image" src="https://github.com/user-attachments/assets/7bb02d7b-46a4-4a6c-8146-a70df7fc4e4c" />
-- IVE (K-POP)
-    - 4/18(土) の京セラライブから余韻が抜けていない. その勢いで家にスピーカーを導入しました.
-- 朝活 × コーヒー 界隈
-    - コーヒーソムリエの資格で体系的に勉強したい.
-- 卓球
-    - 友達を倒すことでうまくなってきました.
-- K-POP ダンス
-    - サークルを引退してからも月一回ペースぐらいで踊っていました (最近は友達と予定合わず)
+ビジネスに近いところから業務課題を考え, データサイエンスなどの技術を意思決定に応用することで潜在価値を創出していくことに興味がある. 
+最近はPhysical AIを学びたい. 
 
 <br>
 
@@ -44,6 +21,23 @@ AtCoder も4月ごろから始めて, 現在茶色になりました.
 - （現在）修士1年：共同研究として, 本格的に推薦システムの研究に取り組んでいる.
 
 <img width="669" height="375" alt="image" src="https://github.com/user-attachments/assets/7b619909-f8ac-4273-b965-99b467ae83eb" />
+
+<br/>
+
+## 最近の活動・趣味
+- 松尾研講座 (GCI など)
+    - データサイエンスを学ぶために始めた.
+    - [GCI2026](https://gci2.t.u-tokyo.ac.jp/archives/course/gci-2026-summer), [Physical AI](https://weblab.t.u-tokyo.ac.jp/lecture/course-list/physical-ai/), [LLM](https://weblab.t.u-tokyo.ac.jp/lecture/course-list/large-language-model/), etc..
+- AtCoder
+    - https://atcoder.jp/users/koeiyoshimura
+    - streak が切れないように（可能な限り）毎日やっている. 
+    - <img width="1163" height="734" alt="image" src="https://github.com/user-attachments/assets/7bb02d7b-46a4-4a6c-8146-a70df7fc4e4c" />
+- K-POP
+    - 直近は [IVE 京セラ](https://ive-official.jp/mob/news/diarKijiShw.php?site=DIVE&ima=0638&aff=ROBO004&id=298731) 参戦.
+    - ショート動画で流れてくる動画をよく踊っている. 
+- コーヒー
+    - 1日3杯前後飲む. 詳しいわけではないが, マンデリンやブルーマウンテンを好む.
+    - コーヒーソムリエ資格認定試験を取りたいと思っている. 
 
 ## プロジェクト
 
