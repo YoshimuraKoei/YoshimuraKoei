@@ -30,7 +30,7 @@
 
 ## 技術スタック
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,nextjs,nodejs,firebase,linux,git,github,neovim&perline=11" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,nextjs,nodejs,linux,neovim&perline=11" alt="Tech Stack" />
 </p>
 
 - データサイエンス: Python, SQL, NumPy, pandas, Matplotlib, scikit-learn, PyTorch
